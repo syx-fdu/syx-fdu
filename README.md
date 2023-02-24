@@ -22,18 +22,15 @@
 ## About ME
 
 - I'm YiXuan Song
-  -  an undergraduate student in Shanghai University of Finance and Economics, major in Finance
   -  will be a PhD, Fudan University
 - Learning open courses released by Stanford/MIT/CMU
-- Blog: [link here](https://www.zhihu.com/people/shenhao-63)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
 
 ## Skill & Interest
-- Languages：C/C++, Python, LaTeX, Markdown, PPT
-- Full-Stack **Web Development**(but naive)
-- New hand in Network security
-- Interested in **CV, NLP** 
+- Languages：C/C++, Python, LaTeX, Markdown
+- New hand in Cyberspace security
+- Interested in **Cryptography** 
 
 ## Stats
 <a href="https://github.com/syx-fdu/syx-fdu">
